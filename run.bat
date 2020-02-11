@@ -1,0 +1,1 @@
+"C:\Program Files\Python38\python.exe" C:/Users/baikai/PycharmProjects/ddbs-python/ddns.py
